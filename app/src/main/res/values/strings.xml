@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BT1_25_3</string>
+    <string name="nh_p_t_n">Nhập tên</string>
+    <string name="nh_p_s_i_n_tho_i">Nhập số điện thoại</string>
+    <string name="th_m">Thêm</string>
+    <string name="s_a">Sửa</string>
+    <string name="x_a">Xóa</string>
+    <string name="hi_n_th">Hiển thị</string>
+</resources>
